@@ -54,7 +54,7 @@ This Part covers the following steps
 [YoutTube Link  ](https://youtu.be/-rvLpo61w0s)
 
 Download the Microsoft Script: https://learn.microsoft.com/en-us/autopilot/add-devices#save-the-hardware-hash-locally-on-a-device-as-a-csv-file  
-Download the Logitech Script  
+Download the Logitech Script(Pending digital signature)  
 
 # Part 4: Basic Troubleshooting 
 This Part covers the following steps  
