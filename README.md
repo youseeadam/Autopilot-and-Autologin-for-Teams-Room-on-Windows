@@ -51,7 +51,7 @@ This Part covers the following steps
 01:22 THe output of the CSV file    
 02:30 Shutting down the computer  
 
-[YoutTube Link  ](https://youtu.be/-rvLpo61w0s)
+https://youtu.be/_xiMO7T7WN4?si=UbFnvOXbTemqmMdY
 
 Download the Microsoft Script: https://learn.microsoft.com/en-us/autopilot/add-devices#save-the-hardware-hash-locally-on-a-device-as-a-csv-file  
 Download the Logitech Script(Pending digital signature)  
