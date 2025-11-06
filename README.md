@@ -30,7 +30,7 @@ This part covers the following steps
 
 IMPORTANT: Group Names must begin with MTR- this is not case sensitive  
 Download the intune win app: https://aka.ms/mtrp/autopilot-tool  
-The Group Query: (device.devicePhysicalIds -any _ -startswith"[OrderID]:MTR-")  
+The Group Query: ```(device.devicePhysicalIds -any _ -startswith"[OrderID]:MTR-")```  
 
 # Part 2: Lenovo + Logitech: Autopilot Setup Made Easy  
 This Part covers the following steps 
