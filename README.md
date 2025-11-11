@@ -26,11 +26,13 @@ This part covers the following steps
 11:59 The OUt of Box Experience  
 12:28 Logging in as Admin with LAPS  
 
-[https://youtu.be/G65rcOqfhGg](https://youtu.be/G65rcOqfhGg)
+[[https://youtu.be/G65rcOqfhGg](https://youtu.be/G65rcOqfhGg)](https://youtu.be/q9V298_jAA4)
 
-IMPORTANT: Group Names must begin with MTR- this is not case sensitive  
-Download the intune win app: https://aka.ms/mtrp/autopilot-tool  
-The Group Query: ```(device.devicePhysicalIds -any _ -startswith"[OrderID]:MTR-")```  
+- IMPORTANT: Group Names must begin with MTR- (this is not case sensitive)
+- Intune Windows App Download: https://aka.ms/mtrp/autopilot-tool
+- Group Query: (device.devicePhysicalIds -any _ -startswith"[OrderID]:MTR-")
+- I created an Excel sheet to help with multi site configurations: https://gtm.vc.logitech.com/Tools/AutoPilot+Configuration+Template.xlsx  
+This template includes all optional fields that need to be configured, along with the required default values. Please review and update the fields as needed before proceeding with your deployment.  
 
 # Part 2: Lenovo + Logitech: Autopilot Setup Made Easy  
 This Part covers the following steps 
@@ -54,7 +56,7 @@ This Part covers the following steps
 https://youtu.be/_xiMO7T7WN4?si=UbFnvOXbTemqmMdY
 
 Download the Microsoft Script: https://learn.microsoft.com/en-us/autopilot/add-devices#save-the-hardware-hash-locally-on-a-device-as-a-csv-file  
-Download the Logitech Script(Pending digital signature)  
+Download the my script I wrote for Logitech: https://gtm.vc.logitech.com/Tools/Get-AutoPilotInfo.ps1  
 
 # Part 4: Basic Troubleshooting 
 This Part covers the following steps  
